@@ -1,0 +1,28 @@
+.menu {
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu a {
+    display: block;
+    font-size: 1.125rem;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+.menu a:hover {
+    color: #3f0505;
+    text-decoration: underline rgb(253, 253, 253) 1.5px;
+}
+
+@media (max-width: 700px) {
+    .menu a {
+        background: hwb(0 96% 4%);
+        border-radius: 4px;
+    }
+}
