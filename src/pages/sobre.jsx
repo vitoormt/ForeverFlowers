@@ -14,7 +14,6 @@ function Sobre(){
                 <Menu/>
             </header>
             <SobreContent/>
-            <Footer/>
         </div>
     )
 

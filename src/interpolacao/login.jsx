@@ -7,7 +7,7 @@ return (
   <div className="section-login">
     <div class = "box">
       <div class ="inbox">
-        <h1>Faça seu Login</h1>
+        <h2 className="ttlogin">Faça seu Login</h2>
         <form>
           <input type="email" id="email" name="email" placeholder="E-mail"></input>
           <input type="password" id="senha" name="senha" placeholder="Senha"></input>

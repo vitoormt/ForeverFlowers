@@ -13,12 +13,8 @@
 
 }
 
-.inbox{
-    margin: 0 auto;
-}
-
-.inbox h1 {
-    margin-bottom: 32px;
+.ttlogin {
+    text-align: center;
 }
 
 .btn-login{

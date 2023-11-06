@@ -10,11 +10,9 @@ function Login(){
     return(
         <div>
             <header className="header">
-            <img src={logo}/>
                 <Menu/>
             </header>
             <Log/>
-            <Footer/>
         </div>
         
     )

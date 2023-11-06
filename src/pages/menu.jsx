@@ -6,7 +6,7 @@ function Menu(){
            
             <ul className="menu">
                 <h1>ForeverFlowers</h1>
-                <li><a href="/">Cadastro produto</a></li>
+                <li><a href="/cadastro">Cadastro produto</a></li>
                 <li><a href="/login">Login</a></li>
             </ul>
             
